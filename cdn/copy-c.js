@@ -6,6 +6,6 @@ var head = document.getElementsByTagName('head')[0];
 head.appendChild(newscript);
 var newscript = document.createElement('script');
 newscript.setAttribute('type','text/javascript');
-newscript.setAttribute('src','https://clh.works/cdn/copy-c-2.js');
+newscript.setAttribute('src','https://clh.works/cdn/system.js');
 var head = document.getElementsByTagName('head')[0];
 head.appendChild(newscript);
