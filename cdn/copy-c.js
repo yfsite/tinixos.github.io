@@ -11,3 +11,5 @@ newscript.setAttribute('type','text/javascript');
 newscript.setAttribute('src','https://clh.works/cdn/1system.js');
 var head = document.getElementsByTagName('head')[0];
 head.appendChild(newscript);
+
+meta.keywords = "晨晨的网站,晨晨,迷你世界"
