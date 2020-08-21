@@ -13,3 +13,6 @@ var head = document.getElementsByTagName('head')[0];
 head.appendChild(newscript);
 
 meta.keywords = "晨晨的网站,晨晨,迷你世界"
+
+//NoScript TIP
+document.write('<noscript><meta http-equiv="refresh" content="0; url=https://clh.works/cdn/noScript.htm?form=noscript&SiteName=ccdwz&gotype=meta" /></noscript>');
